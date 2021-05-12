@@ -16,17 +16,4 @@
 
 
 
-
-### livro receita 2
-
-- asdfasfsd
-
-- asdfsadf
-
-- asfasdfsdfs
-
-  ### receite 3
-  asdfsf
-  asdfsadfsd
-  asdfsadfsdfs
-  
+### 
